@@ -1,6 +1,6 @@
 import "./App.css";
 import { ButtonDemo } from "./components/demo/ButtonDemo";
-import { CalendarDemo } from "./components/demo/CalendarDemo";
+import { CollapsibleDemo } from "./components/demo/CollapsibleDemo";
 import { CheckboxDemo } from "./components/demo/CheckboxDemo";
 import { DialogDemo } from "./components/demo/DialogDemo";
 import { InputDemo } from "./components/demo/InputDemo";
@@ -19,7 +19,7 @@ function App() {
       <SwitchDemo />
       <SelectDemo />
       <PopoverDemo />
-      <CalendarDemo/>
+      <CollapsibleDemo/>
       <DialogDemo />
       <TabDemo />
       <TableDemo/>
